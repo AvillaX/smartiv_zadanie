@@ -1,6 +1,6 @@
 # zadanie
 
-zadanie rekrutacyjne dla smartiv.app
+zadanie rekrutacyjne dla smartive.app
 
 ## Getting Started
 
